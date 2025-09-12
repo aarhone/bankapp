@@ -41,24 +41,6 @@ java -jar target/bankapp.jar
 ```
 _Update the path above if your build output is different or if you use Gradle._
 
-## Project Structure
-
-```
-bankapp/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com/
-│       │       └── aarhone/
-│       │           └── bankapp/
-│       │               ├── Account.java
-│       │               ├── Transaction.java
-│       │               └── ...
-│       └── resources/
-├── pom.xml (or build.gradle)
-├── README.md
-└── ...
-```
 
 ## Contact
 
